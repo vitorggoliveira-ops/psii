@@ -1,4 +1,4 @@
-package psii.dbescola;
+package psii.senai.dbescola.dbescola;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

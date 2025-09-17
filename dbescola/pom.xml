@@ -8,7 +8,7 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>psii</groupId>
+	<groupId>psii.senai.dbescola</groupId>
 	<artifactId>dbescola</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dbescola</name>

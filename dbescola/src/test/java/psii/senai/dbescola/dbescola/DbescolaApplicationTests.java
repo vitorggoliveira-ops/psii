@@ -1,4 +1,4 @@
-package psii.dbescola;
+package psii.senai.dbescola.dbescola;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
